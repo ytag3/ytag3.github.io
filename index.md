@@ -5,7 +5,7 @@ title: Ysatis Tagle — Embedded Systems Developer
 
 # Ysatis Tagle — Embedded Systems Developer
 
-Hi! I’m Ysatis — an embedded systems developer who loves designing systems that bridge hardware and software.  
+Hey! I’m Ysatis — an embedded systems developer who loves designing systems that bridge hardware and software.
 I focus on custom PCB design, microcontroller firmware, and real-world signal processing.
 
 When I’m not debugging circuits, I’m usually making things: screenprinting, building DIY guitar pedals, sewing, laser cutting, 3D printing, restoring retro tech, or playing music.  
@@ -31,25 +31,21 @@ A custom embedded system that converts analog CVBS video to a digital stream ove
 - Optimize for real-time performance and low-level register programming
 - Free up some tapes from my camcorder!
 
-**Repo:** [View Firmware & PCB Files](https://github.com/ytag3/video-uart-converter)
-
-![PCB Photo](/assets/images/pcb-photo.jpg)
+**Repo:** [View Firmware & PCB Files](https://github.com/ytag3/analog-to-uart)
 
 ---
 
 ### PC UART Video Receiver & Visualizer *(In Progress)*
 
-**Overview:**  
+**Overview:**
 A companion Python tool that will receive the video stream over UART and display it in real-time on a PC.
 
-**Goals:**  
-- Build a Python script with `pyserial` + `OpenCV` for cross-platform serial communication and frame rendering  
-- Reconstruct and display video frames from the incoming UART stream  
+**Goals:**
+- Build a Python script with `pyserial` for cross-platform serial communication and frame rendering
+- Reconstruct and display video frames from the incoming UART stream
 - Log frame stats for testing and debugging
 
 **Repo:** [View Python Receiver Tool](https://github.com/ytag3/pc-uart-visualizer)
-
-![Screenshot](/assets/images/receiver-screenshot.png)
 
 ---
 
@@ -75,15 +71,11 @@ Capstone project to design a modular gas recycling and exhaust system using sorp
 
 ---
 
-*(Add more if you have them!)*
-
----
-
 ## Skills & Tools
 
 - Languages: **C**, **C++**, **Python**
 - Platforms: **STM32F**, I2C, UART, SPI, DMA, register-level programming
-- Tools: **KiCad** or **Eagle**, **STM32CubeIDE**, **pyserial**, **OpenCV**, oscilloscopes, logic analyzers, Git
+- Tools: **KiCad** or **Eagle**, **STM32CubeIDE**, **pyserial**, oscilloscopes, logic analyzers, Git
 - Maker Skills: Soldering, custom PCBs, 3D printing, laser cutting, retro tech repair
 
 ---
