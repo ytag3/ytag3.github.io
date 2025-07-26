@@ -85,4 +85,4 @@ Capstone project to design a modular gas recycling and exhaust system using sorp
 I’m currently seeking entry-level embedded systems opportunities where I can design, build, and debug real hardware + firmware — and keep learning by doing.  
 Thanks for checking out my work — feel free to reach out if you’d like to chat or follow along!
 
-**[LinkedIn](#)** • **[GitHub](https://github.com/ytag3)** 
+**[LinkedIn](https://www.linkedin.com/in/ytagle/)** • **[GitHub](https://github.com/ytag3)** 
