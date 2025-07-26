@@ -5,19 +5,17 @@ title: Ysatis Tagle — Embedded Systems Developer
 
 # Ysatis Tagle — Embedded Systems Developer
 
-Hey! I’m Ysatis — an embedded systems developer who loves designing systems that bridge hardware and software.
+Hey! I’m Ysatism an embedded systems enthusiast who loves designing systems that bridge hardware and software.
 I focus on custom PCB design, microcontroller firmware, and real-world signal processing.
 
 When I’m not debugging circuits, I’m usually making things: screenprinting, building DIY guitar pedals, sewing, laser cutting, 3D printing, restoring retro tech, or playing music.  
-I enjoy tackling projects end-to-end — from soldering hardware to writing bare-metal firmware and building PC tools that make it all work together.
+I enjoy tackling projects end-to-end: from soldering hardware to writing bare-metal firmware and building PC tools that make it all work together.
 
 ---
 
 ## Featured Projects *(In Progress)*
 
-These projects are **works in progress** — I’m actively developing, testing, and documenting them to grow my embedded systems skills and demonstrate real-world problem solving.
-
----
+These projects are **works in progress**. I’m actively developing, testing, and documenting them to grow my embedded systems skills and demonstrate real-world problem solving and to fix problems.
 
 ### Analog Video to UART Converter *(In Progress)*
 
@@ -33,7 +31,6 @@ A custom embedded system that converts analog CVBS video to a digital stream ove
 
 **Repo:** [View Firmware & PCB Files](https://github.com/ytag3/analog-to-uart)
 
----
 
 ### PC UART Video Receiver & Visualizer *(In Progress)*
 
@@ -41,7 +38,7 @@ A custom embedded system that converts analog CVBS video to a digital stream ove
 A companion Python tool that will receive the video stream over UART and display it in real-time on a PC.
 
 **Goals:**
-- Build a Python script with `pyserial` for cross-platform serial communication and frame rendering
+- Build a Python script for cross-platform serial communication and frame rendering
 - Reconstruct and display video frames from the incoming UART stream
 - Log frame stats for testing and debugging
 
@@ -51,15 +48,13 @@ A companion Python tool that will receive the video stream over UART and display
 
 ## Previous School Projects
 
-Below are a few selected projects I completed during my academic career — each helped me build a strong foundation in the engineering design process and professional skills.
-
----
+Below are a few selected projects I completed during my academic career that each helped me build a strong foundation in the engineering design process and professional skills.
 
 ### Whack-a-Mole Game on BeagleBone Black
 
 TBD `![School Project Photo](/assets/images/project-1.jpg)`
 
-Implemented a Whack-a-Mole game on the BeagleBone Black to learn driver development and embedded graphics. Wrote a custom frame buffer driver, designed a Qt interface for the display, and built the game logic in C++ using a state machine with software debouncing. The game supported a timer and multiple difficulty levels — our next goal was to add a global leaderboard.
+Implemented a Whack-a-Mole game on the BeagleBone Black to learn driver development and embedded graphics. Wrote a custom frame buffer driver, designed a Qt interface for the display, and built the game logic in C++ using a state machine with software debouncing. The game supported a timer and multiple difficulty levels. An improvement to this project would be to add a global leaderboard.
 
 ---
 
@@ -82,7 +77,7 @@ Capstone project to design a modular gas recycling and exhaust system using sorp
 
 ## Let’s Connect!
 
-I’m currently seeking entry-level embedded systems opportunities where I can design, build, and debug real hardware + firmware — and keep learning by doing.  
-Thanks for checking out my work — feel free to reach out if you’d like to chat or follow along!
+I’m currently seeking entry-level embedded systems opportunities where I can design, build, and debug real hardware + firmware and keep my brain from turning into soup.  
+Thanks for checking out my page! Feel free to reach out if you’d like to chat or follow along.
 
 **[LinkedIn](https://www.linkedin.com/in/ytagle/)** • **[GitHub](https://github.com/ytag3)** 
