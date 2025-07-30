@@ -5,11 +5,10 @@ title: Ysatis Tagle — Embedded Systems Developer
 
 # Ysatis Tagle — Embedded Systems Developer
 
-Hey! I’m Ysatism an embedded systems enthusiast who loves designing systems that bridge hardware and software.
+Hey! I’m Ysatis an embedded systems enthusiast who loves designing systems that bridge hardware and software.
 I focus on custom PCB design, microcontroller firmware, and real-world signal processing.
 
-When I’m not debugging circuits, I’m usually making things: screenprinting, building DIY guitar pedals, sewing, laser cutting, 3D printing, restoring retro tech, or playing music.  
-I enjoy tackling projects end-to-end: from soldering hardware to writing bare-metal firmware and building PC tools that make it all work together.
+When I’m not debugging circuits, I’m usually making things: screenprinting, building DIY guitar pedals, sewing, laser cutting, 3D printing, restoring retro tech, or playing music. I enjoy tackling projects end-to-end: from soldering hardware to writing bare-metal firmware and building PC tools that make it all work together.
 
 ---
 
@@ -19,11 +18,11 @@ These projects are **works in progress**. I’m actively developing, testing, an
 
 ### Analog Video to UART Converter *(In Progress)*
 
-**Overview:**  
+**Overview:**
 A custom embedded system that converts analog CVBS video to a digital stream over UART using an STM32F microcontroller and a video decoder.
 
 **Goals:**  
-- Design and fabricate a custom PCB for the STM32F + video decoder IC  
+- Design and fabricate a custom PCB for the STM32F + video decoder IC
 - Write bare-metal firmware in C to handle I2C configuration, video data buffering, and UART streaming  
 - Verify data integrity with a logic analyzer and oscilloscope  
 - Optimize for real-time performance and low-level register programming
@@ -68,12 +67,12 @@ Capstone project to design a modular gas recycling and exhaust system using sorp
 
 ## Skills & Tools
 
-- Languages: **C**, **C++**, **Python**
-- Platforms: **STM32F**, I2C, UART, SPI, DMA, register-level programming
-- Tools: **KiCad** or **Eagle**, **STM32CubeIDE**, **pyserial**, oscilloscopes, logic analyzers, Git
-- Maker Skills: Soldering, custom PCBs, 3D printing, laser cutting, retro tech repair
+- Languages: **C**, **C++**, **Python**, Bash, Verilog, Assembly
+- Platforms: **STM32F**, I2C, UART, SPI, register-level programming, Embedded Linux, Qt, FreeRTOS
+- Tools: **KiCad**, **STM32CubeIDE**, MATLAB, GCC, GDB, AutoCAD, Solidworks, Git
+- Maker Skills: Soldering, Oscilloscope, logic analyzer, 3D printing, laser cutting, retro tech repair
 
----
+--- 
 
 ## Let’s Connect!
 
