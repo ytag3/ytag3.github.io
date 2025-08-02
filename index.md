@@ -28,7 +28,7 @@ A custom embedded system that converts analog CVBS video to a digital stream ove
 - Optimize for real-time performance and low-level register programming
 - Free up some tapes from my camcorder!
 
-**Repo:** [View Firmware & PCB Files](https://github.com/ytag3/analog-to-uart)
+**Repo:** [View Firmware & PCB Files](https://github.com/ytag3/hi8-to-uart)
 
 
 ### PC UART Video Receiver & Visualizer *(In Progress)*
@@ -51,7 +51,7 @@ Below are a few selected projects I completed during my academic career that eac
 
 ### Whack-a-Mole Game on BeagleBone Black
 
-TBD `![School Project Photo](/assets/images/project-1.jpg)`
+![Video](/media/whackamole.mp4)
 
 Implemented a Whack-a-Mole game on the BeagleBone Black to learn driver development and embedded graphics. Wrote a custom frame buffer driver, designed a Qt interface for the display, and built the game logic in C++ using a state machine with software debouncing. The game supported a timer and multiple difficulty levels. An improvement to this project would be to add a global leaderboard.
 
@@ -59,9 +59,9 @@ Implemented a Whack-a-Mole game on the BeagleBone Black to learn driver developm
 
 ### Sorption-Based Gas Recycling & Exhaust System (Capstone)
 
-TBD `![School Project Photo](/assets/images/project-2.jpg)`
-
 Capstone project to design a modular gas recycling and exhaust system using sorption. Led team research on chemical engineering methods, realistic use cases, and prototype feasibility. Built a test bench with an Arduino, calibrated analog pressure and gas composition sensors, and wrote a Python script to capture live data and export it for analysis. Gained hands-on experience managing a team, planning with Gantt charts, and documenting the engineering design process.
+
+[Project Poster](/media/design_clinic.pdf)
 
 ---
 
