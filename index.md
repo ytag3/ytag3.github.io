@@ -41,7 +41,7 @@ A companion Python tool that will receive the video stream over UART and display
 - Reconstruct and display video frames from the incoming UART stream
 - Log frame stats for testing and debugging
 
-**Repo:** TBD
+**Repo:** [View Project & Code](https://github.com/ytag3/uart-video-view)
 
 ---
 
@@ -51,7 +51,10 @@ Below are a few selected projects I completed during my academic career that eac
 
 ### Whack-a-Mole Game on BeagleBone Black
 
-![Video](/media/whackamole.mp4)
+<video width="640" controls>
+  <source src="media/whackamole.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Implemented a Whack-a-Mole game on the BeagleBone Black to learn driver development and embedded graphics. Wrote a custom frame buffer driver, designed a Qt interface for the display, and built the game logic in C++ using a state machine with software debouncing. The game supported a timer and multiple difficulty levels. An improvement to this project would be to add a global leaderboard.
 
@@ -61,7 +64,7 @@ Implemented a Whack-a-Mole game on the BeagleBone Black to learn driver developm
 
 Capstone project to design a modular gas recycling and exhaust system using sorption. Led team research on chemical engineering methods, realistic use cases, and prototype feasibility. Built a test bench with an Arduino, calibrated analog pressure and gas composition sensors, and wrote a Python script to capture live data and export it for analysis. Gained hands-on experience managing a team, planning with Gantt charts, and documenting the engineering design process.
 
-[Project Poster](/media/design_clinic.pdf)
+[Project Poster](/media/designclinic.pdf)
 
 ---
 
